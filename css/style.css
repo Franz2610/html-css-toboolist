@@ -77,10 +77,10 @@ header img{
 .circle{
     width: 45px;
     height: 15px;
-    border-radius: 50%;
+    border-radius: 30%;
     background-color: black;
     display: inline-block;
-    padding: 8px;
+    padding: 10px;
     color: white;
     text-align: center;
     line-height: 5px;
@@ -105,9 +105,22 @@ header img{
     background-color: #64c0a9;
 }
 .first{
-    font-size: 32px;
+    font-size: 24px;
     font-weight: bold;
 }
-&check{
-    color:green
+#check{
+    color: green;
+    border: green;
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-radius: 50%;
+}
+#cross{
+    color: red;
+    border: red;
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-radius: 50%;
 }
