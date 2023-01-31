@@ -32,32 +32,34 @@ header img{
     width: 500px;
     height: 35px;
     background-color: white;
-    margin: 10px auto;
+    
+    margin: 15px auto;
 }
 .button{
     background-color: #45ABEA;
     border: none;
     color: white;
-    padding: 5px;
+    padding: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 8px;
-    margin: 4px;
+    margin-left: 20px;
+    border-radius: 15%;
 }
-.section{
+.Section{
     background-color: white;
-    border: none;
+    border-style: solid;
     color: white;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 3px;
-    margin: 4px;
+    font-size: 15px;
+    margin: 3px;
  }
  .box2{
     width: 500px;
     height: 500px;
     background-color: #FFFFFF;
-    margin:auto;
+    margin: 0 auto;
  }
