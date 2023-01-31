@@ -32,8 +32,8 @@ header img{
     width: 500px;
     height: 35px;
     background-color: white;
-    
-    margin: 15px auto;
+    margin: 30px auto;
+    margin-bottom: 3px;
 }
 .button{
     background-color: #45ABEA;
@@ -60,6 +60,46 @@ header img{
  .box2{
     width: 500px;
     height: 500px;
-    background-color: #FFFFFF;
+    background-color: white;
     margin: 0 auto;
  }
+ .lista{
+    padding: 40px;
+    background-color: #FFFFFF;
+    margin: auto;
+ }
+ li{
+    background-color: #FFFFFF;
+    list-style: none;
+    margin: 0 auto;
+    padding: 5px;
+ }
+.circle{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+ }
+#editorial{
+    background-color:  #45ABEA;
+}
+#Q1goals{
+    color: #9C72E4;
+}
+#mobile{
+    color :#f29e33;
+}
+#sales{
+    color: #b0c926;
+}
+#website{
+    color: #d863a1;
+}
+#recrutling{
+    color: #64c0a9;
+}
+.first{
+    font-size: 32px;
+    font-weight: bold;
+}
